@@ -21,6 +21,11 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::env-github[]
 
+
+
+The heart of Discogs is a user-built database of music. More than 503,000 people have contributed some piece of knowledge, to build up a catalog of more than 12,197,000 recordings and 6,732,000 artists. We're far from done and you can contribute too! Discogs also offers the ability to catalog your music collection, wantlist, and share your ratings and reviews.
+
+
 Redis demo based on data from https://data.discogs.com[discogs.com].
 
 == Run the demo
